@@ -1,0 +1,5 @@
+Django==1.11.21
+environs==6.1.0
+python-dotenv==0.10.3
+pytz==2017.2
+psycopg2==2.7.3.1
