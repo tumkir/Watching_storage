@@ -1,4 +1,4 @@
-Django==1.11.21
+Django==2.2.24
 environs==6.1.0
 python-dotenv==0.10.3
 pytz==2017.2
